@@ -1,6 +1,6 @@
 from pathlib import Path
 print(Path(__file__).resolve().parent.parent)
-
+t =7
 reverse = 0
 number = 241
 while number > 0:
